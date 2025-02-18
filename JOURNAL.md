@@ -2,7 +2,8 @@
 Made by Robin Schreiber
 
 Repository link: https://github.com/roschreiber/Lighthouse/tree/main
-Total hours so far: 1
+
+Total hours so far: 1.5
 - [x] I have a 3D printer or will be getting one before March 21st
 # Lighthouse 🔦
 
@@ -25,7 +26,7 @@ I want to fix this with Lighthouse. I want to construct a printer that is easy t
 
 ### The goals:
 
-Lighthouse **should**:
+**Lighthouse** ***should***:
 
 - be able to print at a reasonable printing speed without having to sacrifice print quality. I'm looking at 200mm/s - 300mm/s.
 - have a build size enough to handle medium sized models, 256mm³ for example.
@@ -34,4 +35,25 @@ Lighthouse **should**:
 	- Lighthouse will most likely not have a enclosure to stay under its 200$ cutoff. That also means that ABS & ASA are most likely **out of question** here.
 - should be able to be controllable through your Wireless Network. 
   -> Fluidd UI for Klipper maybe?
-  
+	- **And / Or** maybe have a touchscreen in the Frame which allows you to control the Printer.
+- defeat the following quality issues: (I have encountered all of these on my previous printers..)
+	- [**Ringing/Ghosting**](https://www.simplify3d.com/resources/print-quality-troubleshooting/vibrations-and-ringing/) through the use of a **acelerometer**, **vibration dampers** and **linear rails**.
+		- Parts of the Frame will be 3D Printed, which could have negative impact on ringing & ghosting, so I need to find a way to reinforce or stiffen these parts to minimize vibrations.
+	- [Layer Shifts](https://www.simplify3d.com/resources/print-quality-troubleshooting/layer-shifting/) can be minimized by using high quality stepper motors and a linear rail system instead of a belt system.
+		- Belt Systems also suffer a lot from wear & tear, stretching and slippage. They also need a bit more maintenance.
+	- [Z-Banding/Z-Wobble](https://all3dp.com/2/3d-printer-z-banding/), which usually happens when your lead screws are bent. Can be fixed by using anti backlash nuts or Oldham couplings.
+
+### The plan:
+
+1. Design the 3D Printer itself, maintain a **BOM** whilst scalping parts from China.
+2. Get parts for the frame printed out whilst everything else arrives.
+3. Build the printer & make sure that everything works!
+4. Get it tuned, use a generic Klipper configuration which is well maintainted. [Klippain](https://github.com/Frix-x/klippain) for example seems great for this one!
+5. Post some results and documented instructions on how to build Lighthouse!
+
+# Log ✍️
+
+
+| Date      | Task              | Time      | Notes                    |
+| --------- | ----------------- | --------- | ------------------------ |
+| 18th. Feb | Set up JOURNAL.md | 1.5 hours | The start of Lighthouse! |
