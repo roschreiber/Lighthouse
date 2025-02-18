@@ -39,7 +39,7 @@ I want to fix this with Lighthouse. I want to construct a printer that is easy t
 - defeat the following quality issues: (I have encountered all of these on my previous printers..)
 	- [**Ringing/Ghosting**](https://www.simplify3d.com/resources/print-quality-troubleshooting/vibrations-and-ringing/) through the use of a **acelerometer**, **vibration dampers** and **linear rails**.
 		- Parts of the Frame will be 3D Printed, which could have negative impact on ringing & ghosting, so I need to find a way to reinforce or stiffen these parts to minimize vibrations.
-	- [Layer Shifts](https://www.simplify3d.com/resources/print-quality-troubleshooting/layer-shifting/) can be minimized by using high quality stepper motors and a linear rail system instead of a belt system.
+	- [Layer Shifts](https://www.simplify3d.com/resources/print-quality-troubleshooting/layer-shifting/) can be minimized by using high quality stepper motors and a mostly linear rail system instead of a belt system.
 		- Belt Systems also suffer a lot from wear & tear, stretching and slippage. They also need a bit more maintenance.
 	- [Z-Banding/Z-Wobble](https://all3dp.com/2/3d-printer-z-banding/), which usually happens when your lead screws are bent. Can be fixed by using anti backlash nuts or Oldham couplings.
 
