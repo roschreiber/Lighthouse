@@ -1,12 +1,13 @@
 
 Made by Robin Schreiber
+
 Repository link: https://github.com/roschreiber/Lighthouse/tree/main
 Total hours so far: 1
 - [x] I have a 3D printer or will be getting one before March 21st
 # Lighthouse 🔦
 
 ![Lighthouse Banner](assets/banner.png)
-<center>[ˈlaɪthaʊs]</center>
+<p align="center">[ˈlaɪthaʊs]</p>
 
 Lighthouse is supposed to be a easy to build, open source & hackable CoreXY 3D Printer, with a huge focus on High Quality Prints.
 Lighthouse is made for [Hack Club](https://hackclub.com/)'s [Infill](https://infill.hackclub.com/) YSWS, a big thanks goes out to them and Alex Ren for making this possible 🫶
