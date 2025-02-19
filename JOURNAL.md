@@ -3,7 +3,7 @@ Made by Robin Schreiber
 
 Repository link: https://github.com/roschreiber/Lighthouse/tree/main
 
-Total hours so far: 1.5
+Total hours so far: 5.5
 - [x] I have a 3D printer or will be getting one before March 21st
 # Lighthouse 🔦
 
@@ -54,6 +54,8 @@ I want to fix this with Lighthouse. I want to construct a printer that is easy t
 # Log ✍️
 
 
-| Date      | Task              | Time      | Notes                    |
-| --------- | ----------------- | --------- | ------------------------ |
-| 18th. Feb | Set up JOURNAL.md | 1.5 hours | The start of Lighthouse! |
+| Date      | Task                                                                    | Time    | Notes                                                                                                                                                                                                            |
+| --------- | ----------------------------------------------------------------------- | ------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 18th. Feb | Set up JOURNAL.md,<br>Designed a 3D Model for 2020 Aluminium Extrusions | 3 hours | The start of Lighthous                                                                                                                                                                                           |
+| 19th. Feb | Created Models for Slideable T-Nuts,<br>a 310x310mm Heated Bed.         | 2.5    Also added a Model of MGN12C HIWIN Rails, taken from [traceparts](https://www.traceparts.com/en/product/hiwin-technologies-corp-mgn12c?CatalogPath=HIWIN_2099818092%3AHIWIN.020.060&Product=90-07042020-029715) om  |
+|           |                                                                         |                                                                                                                                                                                                                            |
