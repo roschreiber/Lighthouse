@@ -3,11 +3,11 @@ Made by Robin Schreiber
 
 Repository link: https://github.com/roschreiber/Lighthouse/tree/main
 
-Total hours so far: 5.5
+Total hours so far: 11.5
 - [x] I have a 3D printer or will be getting one before March 21st
 # Lighthouse 🔦
 
-![Lighthouse Banner](assets/banner.png)
+![Lighthouse Banner](https://raw.githubusercontent.com/roschreiber/Lighthouse/refs/heads/main/assets/banner.png)
 <p align="center">[ˈlaɪthaʊs]</p>
 
 Lighthouse is supposed to be a easy to build, open source & hackable CoreXY 3D Printer, with a huge focus on High Quality Prints.
@@ -54,8 +54,8 @@ I want to fix this with Lighthouse. I want to construct a printer that is easy t
 # Log ✍️
 
 
-| Date      | Task                                                                    | Time    | Notes                                                                                                                                                                                                            |
-| --------- | ----------------------------------------------------------------------- | ------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 18th. Feb | Set up JOURNAL.md,<br>Designed a 3D Model for 2020 Aluminium Extrusions | 3 hours | The start of Lighthous                                                                                                                                                                                           |
-| 19th. Feb | Created Models for Slideable T-Nuts,<br>a 310x310mm Heated Bed.         | 2.5    Also added a Model of MGN12C HIWIN Rails, taken from [traceparts](https://www.traceparts.com/en/product/hiwin-technologies-corp-mgn12c?CatalogPath=HIWIN_2099818092%3AHIWIN.020.060&Product=90-07042020-029715) om  |
-|           |                                                                         |                                                                                                                                                                                                                            |
+| Date      | Task                                                                    | Time      | Notes                                                                                                                                                                                                                                                                              |
+| --------- | ----------------------------------------------------------------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 18th. Feb | Set up JOURNAL.md,<br>Designed a 3D Model for 2020 Aluminium Extrusions | 3 hours   | The start of Lighthouse                                                                                                                                                                                                                                                            |
+| 19th. Feb | Created Models for Slideable T-Nuts,<br>a 310x310mm Heated Bed.         | 2.5 hours | Also added a Model of MGN12C HIWIN Rails, taken from [traceparts](https://www.traceparts.com/en/product/hiwin-technologies-corp-mgn12c?CatalogPath=HIWIN_2099818092%3AHIWIN.020.060&Product=90-07042020-029715). (I will not be using HIWIN Rails though, they are too expensive!) |
+| 20th. Feb | Start working on the Printer Frame itself.                              | 6 hours   | Added Model for a Adjusted Hiwin Rail with 350mm in length to accomodate for the T-Nuts                                                                                                                                                                                            |
